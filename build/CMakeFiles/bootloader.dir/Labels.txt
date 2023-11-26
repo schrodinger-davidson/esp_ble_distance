@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Leadsoc/books/esp32/gatt_server/build/CMakeFiles/bootloader
+C:/Leadsoc/books/esp32/gatt_server/build/CMakeFiles/bootloader.rule
+C:/Leadsoc/books/esp32/gatt_server/build/CMakeFiles/bootloader-complete.rule
+C:/Leadsoc/books/esp32/gatt_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Leadsoc/books/esp32/gatt_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Leadsoc/books/esp32/gatt_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Leadsoc/books/esp32/gatt_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Leadsoc/books/esp32/gatt_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Leadsoc/books/esp32/gatt_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Leadsoc/books/esp32/gatt_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
